@@ -10,9 +10,8 @@
 - Everything works.
 - 
 - 📫 How to reach me ...
-In my e-mail:
-
-kevinmartinezbarra@gmail.com
+- In my e-mail:
+- kevinmartinezbarra@gmail.com
 
 <!---
 K3yr0nym0us/K3yr0nym0us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
