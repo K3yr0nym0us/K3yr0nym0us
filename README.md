@@ -4,7 +4,7 @@
 - Programming, pentesting and software creation.
 - 
 - 🌱 I’m currently learning ...
-- Python programming language, HTML, CSS and Pentesting.
+- Programing languages Python  , HTML, CSS and Pentesting.
 - 
 - 💞️ I’m looking to collaborate on ...
 - Everything works.
