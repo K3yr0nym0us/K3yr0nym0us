@@ -4,7 +4,9 @@
 - Programming, pentesting and software creation.
 - 
 - 🌱 I’m currently learning ...
-- My languages: ✨ Javascript, HTML, CSS, React and more. ✨
+- 
+- My languages:
+- ✨ Javascript, HTML, CSS, React, ElectronJS, Bootstrap and more. ✨
 - 
 - 💞️ I’m looking to collaborate on ...
 - Everything works.
